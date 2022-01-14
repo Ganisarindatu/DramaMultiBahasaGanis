@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">한국 드라마 추천</string>
+
+    <string name="profileku">내 프로필</string>
+    // Layout
+    <string name="pilih_gambar">(사진을 클릭하시면 한국 드라마 목록을 보실 수 있습니다.)</string>
+    <string name="daftar_genre_drama">드라마 장르 목록</string>
+    <string name="Fantasi">공상</string>
+    <string name="Komedi">코메디</string>
+    <string name="Romantis">로맨틱</string>
+
+    <string name="fantasi_list_title">판타지 드라마 목록</string>
+    <string name="komedi_list_title">코미디 드라마 일람</string>
+    <string name="romantis_list_title">로맨틱 드라마 일람</string>
+    // Data Drama Komedi
+    //waikiki
+    <string name="waikiki_judul">Waikiki</string>
+    <string name="waikiki_date">2018년 2월 5일</string>
+    <string name="waikiki_sinopsis">강동구, 이준기, 봉두식 세 친구가 와이키키라는 게스트하우스를 오픈하면서 벌어지는 이야기를 그린다.
+        외국인들이 많이 찾는 이태원.</string>
+
+    //Strong Women Do Bong Soon
+    <string name="swdbs_judul">Strong Women Do Bong Soon</string>
+    <string name="swdbs_date">2017</string>
+    <string name="swdbs_sinopsis">이 드라마는 초능력을 가진 여자 도봉순의 이야기를 다룬다.
+                        이 힘은 가족의 모든 여성에게서 물려받습니다.</string>
+
+    // Mr.Queen
+    <string name="mrqueen_judul">Mr.Queen</string>
+    <string name="mrqueen_date">2020년 12월 12일</string>
+    <string name="mrqueen_sinopsis">미스터퀸은 궁궐 주방장인 장봉환이라는 남자의 이야기를 전합니다.
+        조선시대 왕비 김소용의 몸에 들어가는 법.</string>
+
+    // Terius Behind Me
+    <string name="tbm_judul">Terius Behind Me</string>
+    <string name="tbm_date">2018년 9월 27일</string>
+    <string name="tbm_sinopsis">내 뒤에 테리우스는 첩보 전쟁으로 인해 남편을 갑자기 잃은 여자 고애린(정인선)의 이야기를 그린다. 김본/테리우스(소지섭)와 함께 흔적도 없이 사라진 뒤 숨어버린 국정원의 전설적인 블랙옵스 요원.
+        두 사람은 함께 고애린의 남편과 관련된 거대한 음모를 파헤친다.</string>
+
+    // Data Drama Fantasi
+    //Doom at your Service
+    <string name="days_judul">Doom at Your Service</string>
+    <string name="days_date">2021년 5월 10일</string>
+    <string name="days_sinopsis">탁동경(박보영)은 편집자로 일하는 미인이다.
+        허구의 인생 이야기 웹 소설 회사를 위해. 그는 지난 6년 동안 일해 왔습니다. 그는 자신의 삶과 자신이 기대하지 않은 운명에 대한 사랑 모두를 위험에 빠뜨리며 나쁜 삶을 살고 있습니다.</string>
+
+    //Memories of the Alhambra
+    <string name="mota_judul">Memories of the Alhambra</string>
+    <string name="mota_date">2018년 12월 1일</string>
+    <string name="mota_sinopsis">알함브라 궁전의 추억은 유진우(현빈)와 정희주(박신혜)의 독특하고 서스펜스적인 이야기를 그린다. 고집 센 투자회사 대표 유진우.
+                        그는 기술과 공학 학위를 가지고 비디오 게임을 개발했습니다.
+</string>
+
+    // High School Love On
+    <string name="hslo_judul">High School Love On</string>
+    <string name="hslo_date">2014년 7월 11일</string>
+    <string name="hslo_sinopsis">이 드라마는 신우현이라는 남자를 돌보게 된 천사 르슬비의 이야기를 그린다. 냉철한 성격의 소유자지만 그런 태도에도 불구하고 그의 친구가 되고 싶어하는 사람은 적지 않다.
+                신우현의 절친이 신우현이 자신의 천사를 좋아한다는 사실을 알게 되면서 분위기가 달라진다.</string>
+
+    // Moorim School
+    <string name="moorim_judul">Moorim School</string>
+    <string name="moorim_date">2016년 1월 11일</string>
+    <string name="moorim_sinopsis">성적에만 집착하는 학교가 아닌 무림학교라는 학교의 이야기를 들려줍니다.
+        무림학교는 또한 정직, 믿음, 희생, 소통 등의 덕목을 가르치고 있으며, 학교의 교사와 학생들은 다른 나라에서 오며 각자의 사연이 있습니다.</string>
+
+    // Data Drama Romantis
+    //Crush Landing On You
+    <string name="cloy_judul">Crush Landing On You</string>
+    <string name="cloy_date">2019년 12월 14일</string>
+    <string name="cloy_sinopsis">대한민국 부잣집의 후계자 윤세리(손예진)의 이야기를 그린다. 사고로 패러글라이딩을 하던 윤세리는 강풍으로 북한에 상륙했다가 결국 북한 장교 리정혁에게 구조돼 남한으로 돌아갔다.</string>
+
+    //She Was Pretty
+    <string name="swp_judul">She Was Pretty</string>
+    <string name="swp_date">2016년 12월 16일</string>
+    <string name="swp_sinopsis">이 드라마는 뚱뚱하고 못생긴 남자 성준(박서준)의 이야기를 그린다. 성준에게는 혜진(황정음)이라는 절친하고 아름답고 인기있는 여자 친구가 있습니다.
+                        성준은 아버지와 함께 미국으로 건너가야 했다. 미국에서 15년 만에 성준이 한국으로 돌아온다. 뚱뚱하고 미남이 아닌 성준이 이제는 잘생긴 남자로 변신했다.
+                        귀국 후 혜진과의 만남 주선하는 성준</string>
+
+    // Go Back Couple
+    <string name="gbc_judul">Go Back Couple</string>
+    <string name="gbc_date">2017년 10월 13일</string>
+    <string name="gbc_sinopsis">최반도를 시작으로 마진주는 부부다. 최반도는 생계를 책임져야 하고, 마진주는 자존감이 낮은 주부다.
+                        결혼할 때는 서로 사랑했지만 지금은 서로를 미워한다. 둘 다 너무 어린 나이에 결혼한 것을 후회한다. 두 사람은 시간 여행을 하며 처음 만난 곳에서 20대 대학생이 된 자신을 발견합니다.</string>
+
+    // Fight For My Way
+    <string name="ffmw_judul">Fight For My Way</string>
+    <string name="ffmw_date">2017년 6월 2일</string>
+    <string name="ffmw_sinopsis">이 드라마는 전직 태권도 선수였던 고동만의 이야기를 그린다. 어린 시절 그는 돈과 꿈 사이에서 선택해야 하는 쓰라린 경험을 겪었습니다. 그 사건으로 그는 아픈 여동생을 돕기 위해 돈을 받기 위해 꿈을 포기해야 했다.</string>
+
+</resources>

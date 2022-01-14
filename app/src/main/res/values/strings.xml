@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Rekomendasi Drama Korea</string>
+
+    <string name="profileku">Profileku</string>
+    // Layout
+    <string name="pilih_gambar">(Klik gambar untuk melihat daftar drama Korea)</string>
+    <string name="daftar_genre_drama">Daftar Genre Drama</string>
+    <string name="Fantasi">Fantasi</string>
+    <string name="Komedi">Komedi</string>
+    <string name="Romantis">Romantis</string>
+
+    <string name="fantasi_list_title">Daftar Drama Fantasi</string>
+    <string name="komedi_list_title">Daftar Drama Komedi</string>
+    <string name="romantis_list_title">Daftar Drama Romantis</string>
+    // Data Drama Komedi
+        //waikiki
+    <string name="waikiki_judul">Waikiki</string>
+    <string name="waikiki_date">5 Februari 2018</string>
+    <string name="waikiki_sinopsis">Bercerita tentang 3 orang sahabat yaitu Kang Dong Goo,Lee Joon Ki dan Bong Doo Sik yang membuka wisma Bernama Waikiki di
+        Itaewon, tempat banyak orang asing datang untuk menginap.</string>
+
+        //Strong Women Do Bong Soon
+    <string name="swdbs_judul">Strong Women Do Bong Soon</string>
+    <string name="swdbs_date">2017</string>
+    <string name="swdbs_sinopsis">Drama ini mengisahkan tentang seorang Wanita Bernama Do Bong Soon yang memiliki kekuatan super dimana" +
+                        kekuatannya ini diturunkan dari setiap Wanita di keluarganya.</string>
+
+        // Mr.Queen
+    <string name="mrqueen_judul">Mr.Queen</string>
+    <string name="mrqueen_date">12 Desember 2020</string>
+    <string name="mrqueen_sinopsis">Mr.Queen  ini berkisahkan tentang seorang pria bernama Jang Bong Hwan yang merupakan koki istana negara, ia memiliki jiwa yang bebas yang memungkinkan dirinya entah
+        bagaimana dapat masuk ke dalam tubuh ratu Kim So Yong di era Joseon.</string>
+
+        // Terius Behind Me
+    <string name="tbm_judul">Terius Behind Me</string>
+    <string name="tbm_date">27 September 2018</string>
+    <string name="tbm_sinopsis">Terius Behind Me Mengisahkan seorang wanita Go Ae Rin (Jung In Sun) yang tiba-tiba kehilangan suaminya karena terlibat dalam perang mata-mata. Bersama dengan Kim Bon / Terrius (So Ji Sub), agen ops hitam legendaris di National Intelligence Service (NIS) yang bersembunyi setelah menghilang tanpa jejak.
+        Mereka berdua bekerja sama untuk mengungkap konspirasi besar yang melibatkan suami Go Ae Rin.</string>
+
+    // Data Drama Fantasi
+        //Doom at your Service
+    <string name="days_judul">Doom at Your Service</string>
+    <string name="days_date">10 Mei 2021</string>
+    <string name="days_sinopsis">Tak Dong-Kyeong (Park Bo-Young) merupakan seorang wanita cantik yang berprofesi sebagai editor
+        untuk perusahaan web novel kisah kehidupan fiksi. Dia telah bekerja selama 6 tahun terakhir. Dia menjalani kehidupan yang buruk, mempertaruhkan hidup maupun cintanya terhadap takdir yang tidak Ia duga.</string>
+
+        //Memories of the Alhambra
+    <string name="mota_judul">Memories of the Alhambra</string>
+    <string name="mota_date">1 Desember 2018</string>
+    <string name="mota_sinopsis">Memories of the Alhambra menceritakan kisah Yoo Jin Woo (Hyun Bin) dan Jung Hee Joo (Park Shin Hye) yang unik dan menegangkan. Yoo Jin Woo merupakan CEO Perusahaan investasi yang berjiwa keras.
+                        Dengan kemampuan dan gelarnya di bidang teknik, ia mengembangkan sebuah video game.</string>
+
+        // High School Love On
+    <string name="hslo_judul">High School Love On</string>
+    <string name="hslo_date">11 Juli 2014</string>
+    <string name="hslo_sinopsis">Drama ini mengisahkan malaikat bernama Le Seul Bi yang ditugaskan untuk menjaka seorang bernama Shin Woo Hyun. Dia adalah orang yang memiliki sikap dingin, namun walau sikapnya seperti itu, tak sedikit juga orang yang tertarik untuk menjadi sahabatnya.
+                Suasana berubah ketika sahabat Shin Woo Hyun mengetahui bahwa dia menyukai malaikatnya itu.</string>
+
+        // Moorim School
+    <string name="moorim_judul">Moorim School</string>
+    <string name="moorim_date">11 Januari 2016</string>
+    <string name="moorim_sinopsis">Mengisahkan sekolah bernama Moorim School yang tidak hanya berfokus pada nilai akademik.
+        Moorim School juga mengajarkan tentang kebajikan termaksud kejujuran, iman, perngorbanan dan komunikasi, para guru dan siswa disekolah berasal dari negara yang berbeda dan masing masing memiliki cerita mereka sendiri.</string>
+
+    // Data Drama Romantis
+        //Crush Landing On You
+    <string name="cloy_judul">Crush Landing On You</string>
+    <string name="cloy_date">14 Desember 2019</string>
+    <string name="cloy_sinopsis">Menceritakan kisah tentang Yoon Se Ri (Son Ye Jin) yang merupakan seorang pewaris dari keluarga kaya di Korea Selatan. Dalam sebuah insiden, paralayang yang Yoon Se Ri gunakan harus mendarat di Korea Utara karena terpaan angin kencang dan akhirnya ia berhasil diselamatkan seorang perwira Korea Utara Ri Jung Hyuk untuk Kembali ke Korea Selatan.</string>
+
+        //She Was Pretty
+    <string name="swp_judul">She Was Pretty</string>
+    <string name="swp_date">16 Desember 2016</string>
+    <string name="swp_sinopsis">Drama ini bercerita tentang seorang yang bernama Sung Joon (Park Seo Joon) yang saat kecil bertubuh gendut dan juga jelek. Sung Joon memiliki teman dekat perempuan yang cantik dan juga populer bernama Hye Jin (Hwang Jung Eum).
+                        Sung Joon harus pindah ke Amerika Serikat bersama ayahnya. Setelah lima belas tahun di Amerika Serikat, Sung Joon kembali lagi ke Korea Selatan. Sung Joon yang dahulu gendut dan tidak tampan, kini berubah menjadi seorang yang tampan.
+                        Setelah kembali lagi ke Korea Selatan, Sung Joon mengatur pertemuan dengan Hye Jin </string>
+
+        // Go Back Couple
+    <string name="gbc_judul">Go Back Couple</string>
+    <string name="gbc_date">13 Oktober 2017</string>
+    <string name="gbc_sinopsis">Bermula dari Choi Ban-Do dan Ma Jin-Joo adalah pasangan suami-istri. Choi Ban-Do telah terbebani dengan menjadi pencari nafkah dan Ma Jin-Joo adalah seorang ibu rumah tangga dengan harga diri rendah.
+                        Meskipun mereka saling mencintai saat mereka menikah, mereka sekarang saling membenci. Mereka berdua menyesal menikah di usia muda. Pasangan ini melakukan perjalanan waktu dan mendapati diri mereka sebagai mahasiswa berusia 20 tahun diamana saat mereka bertemu pertama kali.</string>
+
+        // Fight For My Way
+    <string name="ffmw_judul">Fight For My Way</string>
+    <string name="ffmw_date">2 Juni 2017</string>
+    <string name="ffmw_sinopsis">Drama ini mengisahkan Ko Dong Man yang merupakan seorang laki-laki yang bekerja sebagai seorang mantan atlit taekwondo. Pada waktu kecil dia harus mengalami pemgalaman pahit dimana beliau harus menentukan antara uang dan juga impiannya itu. Dengan kejadian itu iaharus mengalah terhadap impiannya demi menerima uang untuk membantu adik perempuannya yang sedang sakit.</string>
+
+</resources>
