@@ -1,7 +1,14 @@
 <resources>
     <string name="app_name">Rekomendasi Drama Korea</string>
+    // profileku
 
     <string name="profileku">Profileku</string>
+    <string name="hobi">Hobi</string>
+    <string name="prodi">Program Studi</string>
+    <string name="nim">NPM</string>
+    <string name="baca">Membaca</string>
+    <string name="ti">Teknik Informatika</string>
+    <string name="email">E-Mail</string>
     // Layout
     <string name="pilih_gambar">(Klik gambar untuk melihat daftar drama Korea)</string>
     <string name="daftar_genre_drama">Daftar Genre Drama</string>

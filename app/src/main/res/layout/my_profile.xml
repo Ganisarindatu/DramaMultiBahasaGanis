@@ -148,7 +148,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Hobi"
+                android:text="@string/hobi"
                 android:textColor="#B5B4B4"
                 android:textSize="18sp" />
 
@@ -156,7 +156,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Membaca"
+                android:text="@string/baca"
                 android:textAlignment="viewEnd"
                 android:textColor="#0E0E0E" />
         </LinearLayout>
@@ -190,7 +190,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Teknik Informatika"
+                android:text="@string/ti"
                 android:textAlignment="viewEnd"
                 android:textColor="#0E0E0E" />
         </LinearLayout>
@@ -216,7 +216,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="NIM/NPM"
+                android:text="@string/nim"
                 android:textColor="#B5B4B4"
                 android:textSize="18sp" />
 
@@ -245,13 +245,12 @@
             android:layout_marginEnd="10dp"
             android:layout_marginBottom="5dp"
             android:orientation="horizontal">
-
             <TextView
                 android:id="@+id/textView10"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="E-Mail"
+                android:text="@string/email"
                 android:textColor="#B5B4B4"
                 android:textSize="18sp" />
 

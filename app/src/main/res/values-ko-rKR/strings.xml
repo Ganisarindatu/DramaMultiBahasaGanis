@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">한국 드라마 추천</string>
-
+    //Profileku
     <string name="profileku">내 프로필</string>
+    <string name="hobi">취미</string>
+    <string name="prodi">학습 프로그램</string>
+    <string name="nim">학생 식별 번호</string>
+    <string name="baca">읽다</string>
+    <string name="ti">기술적 인 정보</string>
+    <string name="email">이메일</string>
     // Layout
     <string name="pilih_gambar">(사진을 클릭하시면 한국 드라마 목록을 보실 수 있습니다.)</string>
     <string name="daftar_genre_drama">드라마 장르 목록</string>

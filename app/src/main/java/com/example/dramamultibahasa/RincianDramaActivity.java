@@ -8,7 +8,10 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.dramamultibahasa.model.Comedy;
 import com.example.dramamultibahasa.model.Drama;
+import com.example.dramamultibahasa.model.Fantasy;
+import com.example.dramamultibahasa.model.Romance;
 
 public class RincianDramaActivity extends AppCompatActivity {
 
@@ -33,10 +36,15 @@ public class RincianDramaActivity extends AppCompatActivity {
         ivFotoDrama = findViewById(R.id.gambarDrama);
     }
 
-
     private void tampilkanRincianDrama(Drama drama) {
        Log.d("Rincian","Drama "+drama.getGenre());
-        txGenre.setText(drama.getGenre());
+        if(drama instanceof Comedy){
+            txGenre.setText(R.string.Komedi);
+        }else if(drama instanceof Romance) {
+            txGenre.setText(R.string.Romantis);
+        }else if(drama instanceof Fantasy) {
+            txGenre.setText(R.string.Fantasi);
+        }
         txJudul.setText(drama.getJudul());
         txTahun.setText(drama.getTahun());
         txSinopsis.setText(drama.getSinopsis());

@@ -37,6 +37,7 @@ public class DataProvider {
                 ctx.getString(R.string.mrqueen_sinopsis), R.drawable.mrq));
         comedies.add(new Comedy(ctx.getString(R.string.tbm_judul), ctx.getString(R.string.tbm_date),
                 ctx.getString(R.string.tbm_sinopsis), R.drawable.tbm));
+        comedies.add(new Comedy(ctx.getString(R.string.swdbs_judul),ctx.getString(R.string.waikiki_date),ctx.getString(R.string.waikiki_sinopsis),R.drawable.waikiki));
         return comedies;
     }
 
@@ -57,8 +58,6 @@ public class DataProvider {
         dramas.addAll(initDataComedy(ctx));
         dramas.addAll(initDataRomance(ctx));
         dramas.addAll(initDataFantasy(ctx));
-
-
     }
 
     public static List<Drama> getAllDrama(Context ctx) {

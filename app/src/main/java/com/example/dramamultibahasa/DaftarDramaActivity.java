@@ -38,7 +38,7 @@ public class DaftarDramaActivity extends AppCompatActivity {
         } else if (dramas.get(0) instanceof Romance) {
             judul = getString(R.string.romantis_list_title);
         }
-        else if (dramas.get(0) instanceof Fantasy) {
+        else if (dramas.get(0) instanceof Fantasy){
             judul = getString(R.string.fantasi_list_title);
         }
         txJudulList.setText(judul);

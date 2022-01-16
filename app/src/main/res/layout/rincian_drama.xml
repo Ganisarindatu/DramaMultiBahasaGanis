@@ -15,12 +15,12 @@
     <TextView
         android:id="@+id/txGenre"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_height="22dp"
         android:layout_marginBottom="24dp"
+        android:fontFamily="@font/tulisanestetik"
         android:text=" Genre Drama"
         android:textColor="#49443C"
         android:textSize="19sp"
-        android:fontFamily="@font/tulisanestetik"
         android:textStyle="bold" />
 
     <ImageView
@@ -44,6 +44,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="italic"
+        android:textColor="#884B38"
         android:text="Tahun Rilis" />
 
     <TextView
